@@ -1,0 +1,12 @@
+{ "components" : 
+    [
+        {"partNumber": "TL072CP", "quantity" : 0},
+        {"partNumber": "LM358N", "quantity" : 0},
+        {"partNumber": "TL082CN", "quantity" : 0},
+        {"partNumber": "TL081CP", "quantity" : 0},
+        {"partNumber": "LM324N", "quantity" : 0},
+        {"partNumber": "CA3130E", "quantity" : 0},
+        {"partNumber": "LM13700N", "quantity" : 0},
+        {"partNumber": "LF353", "quantity" : 0}
+    ]
+}
