@@ -1,0 +1,114 @@
+\hypertarget{class_arrow_a_p_i_1_1_arrow_a_p_i}{}\doxysection{Arrow\+A\+P\+I.\+Arrow\+A\+PI Class Reference}
+\label{class_arrow_a_p_i_1_1_arrow_a_p_i}\index{ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}}
+
+
+Constructor.  
+
+
+
+
+Inheritance diagram for Arrow\+A\+P\+I.\+Arrow\+A\+PI\+:
+% FIG 0
+
+
+Collaboration diagram for Arrow\+A\+P\+I.\+Arrow\+A\+PI\+:
+% FIG 1
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \mbox{\hyperlink{class_arrow_a_p_i_1_1_arrow_a_p_i_a072d054721cbe698743726042af70eb7}{\+\_\+\+\_\+init\+\_\+\+\_\+}} (self, url, login, api\+Key)
+\item 
+def \mbox{\hyperlink{class_arrow_a_p_i_1_1_arrow_a_p_i_a5335c1be203fa03f9ec1ff85aec922d8}{search\+By\+Part\+Number}} (self, part\+Number, wished\+Quantity)
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_arrow_a_p_i_1_1_arrow_a_p_i_a0b5c28fe86a0f6d258095714f752fa56}{api\+Name}}
+\item 
+\mbox{\hyperlink{class_arrow_a_p_i_1_1_arrow_a_p_i_ac528e029a7b64571c943bbf9e71973a1}{items}}
+\item 
+\mbox{\hyperlink{class_arrow_a_p_i_1_1_arrow_a_p_i_a3929d64616f6849d6cc247130ebd6c12}{similar\+Items}}
+\item 
+\mbox{\hyperlink{class_arrow_a_p_i_1_1_arrow_a_p_i_a9604ee2b81676dd207d43fae5c0d2d9f}{obsolete\+Items}}
+\item 
+\mbox{\hyperlink{class_arrow_a_p_i_1_1_arrow_a_p_i_a6e6baa4c921a66d127b5143e47eed1a1}{data}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Constructor. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em Url} & of A\+PI \\
+\hline
+{\em Login} & \\
+\hline
+{\em Apikey} & \\
+\hline
+{\em Version} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_arrow_a_p_i_1_1_arrow_a_p_i_a072d054721cbe698743726042af70eb7}\label{class_arrow_a_p_i_1_1_arrow_a_p_i_a072d054721cbe698743726042af70eb7}} 
+\index{ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}!\_\_init\_\_@{\_\_init\_\_}}
+\index{\_\_init\_\_@{\_\_init\_\_}!ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}}
+\doxysubsubsection{\texorpdfstring{\_\_init\_\_()}{\_\_init\_\_()}}
+{\footnotesize\ttfamily def Arrow\+A\+P\+I.\+Arrow\+A\+P\+I.\+\_\+\+\_\+init\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{url,  }\item[{}]{login,  }\item[{}]{api\+Key }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 2
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_arrow_a_p_i_1_1_arrow_a_p_i_a5335c1be203fa03f9ec1ff85aec922d8}\label{class_arrow_a_p_i_1_1_arrow_a_p_i_a5335c1be203fa03f9ec1ff85aec922d8}} 
+\index{ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}!searchByPartNumber@{searchByPartNumber}}
+\index{searchByPartNumber@{searchByPartNumber}!ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}}
+\doxysubsubsection{\texorpdfstring{searchByPartNumber()}{searchByPartNumber()}}
+{\footnotesize\ttfamily def Arrow\+A\+P\+I.\+Arrow\+A\+P\+I.\+search\+By\+Part\+Number (\begin{DoxyParamCaption}\item[{}]{self,  }\item[{}]{part\+Number,  }\item[{}]{wished\+Quantity }\end{DoxyParamCaption})}
+
+Here is the call graph for this function\+:
+% FIG 3
+
+
+\doxysubsection{Member Data Documentation}
+\mbox{\Hypertarget{class_arrow_a_p_i_1_1_arrow_a_p_i_a0b5c28fe86a0f6d258095714f752fa56}\label{class_arrow_a_p_i_1_1_arrow_a_p_i_a0b5c28fe86a0f6d258095714f752fa56}} 
+\index{ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}!apiName@{apiName}}
+\index{apiName@{apiName}!ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}}
+\doxysubsubsection{\texorpdfstring{apiName}{apiName}}
+{\footnotesize\ttfamily Arrow\+A\+P\+I.\+Arrow\+A\+P\+I.\+api\+Name}
+
+\mbox{\Hypertarget{class_arrow_a_p_i_1_1_arrow_a_p_i_a6e6baa4c921a66d127b5143e47eed1a1}\label{class_arrow_a_p_i_1_1_arrow_a_p_i_a6e6baa4c921a66d127b5143e47eed1a1}} 
+\index{ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}!data@{data}}
+\index{data@{data}!ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}}
+\doxysubsubsection{\texorpdfstring{data}{data}}
+{\footnotesize\ttfamily Arrow\+A\+P\+I.\+Arrow\+A\+P\+I.\+data}
+
+\mbox{\Hypertarget{class_arrow_a_p_i_1_1_arrow_a_p_i_ac528e029a7b64571c943bbf9e71973a1}\label{class_arrow_a_p_i_1_1_arrow_a_p_i_ac528e029a7b64571c943bbf9e71973a1}} 
+\index{ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}!items@{items}}
+\index{items@{items}!ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}}
+\doxysubsubsection{\texorpdfstring{items}{items}}
+{\footnotesize\ttfamily Arrow\+A\+P\+I.\+Arrow\+A\+P\+I.\+items}
+
+\mbox{\Hypertarget{class_arrow_a_p_i_1_1_arrow_a_p_i_a9604ee2b81676dd207d43fae5c0d2d9f}\label{class_arrow_a_p_i_1_1_arrow_a_p_i_a9604ee2b81676dd207d43fae5c0d2d9f}} 
+\index{ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}!obsoleteItems@{obsoleteItems}}
+\index{obsoleteItems@{obsoleteItems}!ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}}
+\doxysubsubsection{\texorpdfstring{obsoleteItems}{obsoleteItems}}
+{\footnotesize\ttfamily Arrow\+A\+P\+I.\+Arrow\+A\+P\+I.\+obsolete\+Items}
+
+\mbox{\Hypertarget{class_arrow_a_p_i_1_1_arrow_a_p_i_a3929d64616f6849d6cc247130ebd6c12}\label{class_arrow_a_p_i_1_1_arrow_a_p_i_a3929d64616f6849d6cc247130ebd6c12}} 
+\index{ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}!similarItems@{similarItems}}
+\index{similarItems@{similarItems}!ArrowAPI.ArrowAPI@{ArrowAPI.ArrowAPI}}
+\doxysubsubsection{\texorpdfstring{similarItems}{similarItems}}
+{\footnotesize\ttfamily Arrow\+A\+P\+I.\+Arrow\+A\+P\+I.\+similar\+Items}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_arrow_a_p_i_8py}{Arrow\+A\+P\+I.\+py}}\end{DoxyCompactItemize}

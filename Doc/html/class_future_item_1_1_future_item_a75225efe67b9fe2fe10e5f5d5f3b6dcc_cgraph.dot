@@ -1,0 +1,24 @@
+digraph "FutureItem.FutureItem.update"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="FutureItem.FutureItem.update",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="DigiKeyItem.DigiKeyItem.\l__computeAvailableQantities",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_digi_key_item_1_1_digi_key_item.html#a73e878ce65648786d533f2f77d4f6781",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="FarnellItem.FarnellItem.\l__computeAvailableQantities",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_farnell_item_1_1_farnell_item.html#af802aaf69d1bbc7be8aba86d8aebccf9",tooltip=" "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="FutureItem.FutureItem.\l__computeAvailableQantities",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_future_item_1_1_future_item.html#a9bc5b0bf89619ef4ab8ed6ccbf98b64e",tooltip=" "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ArrowItem.ArrowItem.\l__computeAvailableQantities",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_arrow_item_1_1_arrow_item.html#adf2b36e8874dfe1b8e163ed4cf00d8fa",tooltip=" "];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="DigiKeyItem.DigiKeyItem.\l__computeUnitPrice",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_digi_key_item_1_1_digi_key_item.html#a1b7da28ef6f575c84cb7d599a410eb06",tooltip=" "];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="FarnellItem.FarnellItem.\l__computeUnitPrice",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_farnell_item_1_1_farnell_item.html#af0c3239365fa16d7c2855e0bc0af064e",tooltip=" "];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="FutureItem.FutureItem.\l__computeUnitPrice",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_future_item_1_1_future_item.html#a08f05093731370e8f71bc61989848ad3",tooltip=" "];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="ArrowItem.ArrowItem.\l__computeUnitPrice",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_arrow_item_1_1_arrow_item.html#a21e95bd101d434c18c9bf3b17c8cbc8d",tooltip=" "];
+}

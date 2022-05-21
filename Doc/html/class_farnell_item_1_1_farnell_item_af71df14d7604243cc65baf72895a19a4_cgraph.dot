@@ -1,0 +1,14 @@
+digraph "FarnellItem.FarnellItem.__init__"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="FarnellItem.FarnellItem.\l__init__",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="DigiKeyItem.DigiKeyItem.initData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_digi_key_item_1_1_digi_key_item.html#ac42dd70613269d5800fc5b0555e207d8",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ArrowItem.ArrowItem.initData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_arrow_item_1_1_arrow_item.html#a9e52d7733d42ddee052d528dc51495b1",tooltip=" "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="FarnellItem.FarnellItem.initData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_farnell_item_1_1_farnell_item.html#a54ffd879b6a0b505dd48c2cc9db70fc1",tooltip=" "];
+}

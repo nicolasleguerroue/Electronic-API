@@ -20,3 +20,8 @@ The only condition is to have apiKey from seller.
 ## Description
 
 ![img](Doc/traitement.png)
+
+
+## Documentation
+
+The Doxygen documentation is available in `Doc/html` or `Doc/latex`
